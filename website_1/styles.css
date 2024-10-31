@@ -1,0 +1,17 @@
+body{
+    background-image: url('../HTML-CSS-JAVASCRIPT-10-PRACTICE-PROJECTS-project1/images/mountain.jpg');
+    background-repeat: repeat;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: xx-large;
+}
+#dob{
+    size:100px;
+    margin-left: 600px;
+}
+#submit{
+    margin-left: 630px;
+}
